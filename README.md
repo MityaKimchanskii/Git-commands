@@ -39,10 +39,10 @@
                It downloads a branch from a remote repository, 
                then immediately merges it into the current branch.
 
-**git clone <https:....>** - create clone from remote repository (for example: GitHub)
+**git clone https:....** - create clone from remote repository (for example: GitHub)
 **vi README.md** - make changes in readme file, to start press <o> then type, after <esc :wq> to save changes
 
-**git rebase -i** - rebase and squash => ctrl v - to squash all commits that were choosen => <c> <s> => <esc esc> => x => <i> <p> <esc>
+**git rebase -i** - rebase and squash => ctrl v - to squash all commits that were choosen => c s => esc esc => x => i p esc
 
 **git commit --amend --no-edit --date="Fri Aug 05 20:00:00 2022 -0600"** - add commit for past time
 
