@@ -2,6 +2,8 @@
 
 **➡️mkdir <name>** - create folder
 
+**➡️git rm --chached -r . - remove everything from the staging area
+
 **➡️ls** - check what inside current folder
   
 **➡️ls -a** - to see all hidden files
