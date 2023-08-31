@@ -35,6 +35,8 @@
 **➡️git checkout -b <name>** - create new branch
   
 **➡️git checkout -D <name>** - delete branch
+
+**➡️git checkout <filename>** - return to the last checkpoint
   
 **➡️git branch** - current branch
   
